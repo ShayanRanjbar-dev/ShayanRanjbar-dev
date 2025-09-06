@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi There , I'm Shayan👋
 I’m an Indie Game Developer using Godot 🎮 and Unity 🕹️.<br>I love to learn new things 📚, explore new ideas 🧠, and sometimes... break stuff 💥<br>just to fix it better!✨
 
 
