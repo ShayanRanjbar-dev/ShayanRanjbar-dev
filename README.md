@@ -3,7 +3,7 @@ I’m an Indie Game Developer using Godot 🎮 and Unity 🕹️.<br>I love to l
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thelandsharkgames) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thelandsharkgames@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thelandsharkgames) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thelandsharkgames@gmail.com) [![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://thelandsharkgames.itch.io)
 
 # 💻 Tech Stack:
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
